@@ -1,0 +1,1 @@
+# QuickCheckout-wordpress-plugin
